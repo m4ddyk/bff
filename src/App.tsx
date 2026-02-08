@@ -598,7 +598,7 @@ function App() {
           <div className="bg-white rounded-3xl p-5 shadow-frame-lg">
             <div className="relative aspect-[3/4] rounded-2xl overflow-hidden photo-grade">
               <img 
-                src="public/couple_photo_02.jpg" 
+                src="couple_photo_02.jpg" 
                 alt="Us - the beginning of always" 
                 className="w-full h-full object-cover"
               />
